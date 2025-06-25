@@ -1,0 +1,7 @@
+
+title: "Muzz's PyNotes"
+description: "Python Snippet Collection by Muzz"
+theme: minima
+baseurl: "/pynotes"
+plugins:
+  - jekyll-feed
